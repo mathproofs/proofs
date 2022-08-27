@@ -8,7 +8,7 @@ category: calculus
 
 The derivative of two functions is the derivative of the first function plus the derivative of the second function.
 
-$$ \tfrac{d}{dx}(g(x) + j(x)) = g'(x) + j'(x) $$
+$$ \tfrac{d}{dx}\bigg(g(x) + j(x)\bigg) = g'(x) + j'(x) $$
 
 ## Proof
 

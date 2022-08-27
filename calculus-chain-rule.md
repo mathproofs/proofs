@@ -8,7 +8,7 @@ category: calculus
 
 The derivative of a nested function is the derivative of the outer function multiplied by the derivative of the inner function.
 
-$$ \tfrac{d}{dx}(g(j(x))) = g'(j(x)) \* j'(x) $$
+$$ \tfrac{d}{dx}\bigg(g(j(x))\bigg) = g'(j(x)) \* j'(x) $$
 
 ## Proof
 
