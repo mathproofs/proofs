@@ -2,7 +2,7 @@
 title: Quotient rule in calculus
 description: This proof shows that the derivative for the quotient or fraction a/b is (a'b - ab') / b^2.
 category: calculus
-foundations: [calculus-chain-rule, calculus-power-rule]
+foundations: [calculus-chain-rule, calculus-power-rule, calculus-product-rule]
 ---
 
 ## Statement
