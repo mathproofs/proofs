@@ -1,5 +1,6 @@
 ---
 title: There are infinitely many natural numbers
+description: This proof shows that there are infinitely many natural numbers.
 category: number-theory
 ---
 
